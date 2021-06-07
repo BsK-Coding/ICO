@@ -1,0 +1,9 @@
+node_modules
+brouillon
+
+#Hardhat files
+cache
+artifacts
+
+#VSCode files
+.vscode
